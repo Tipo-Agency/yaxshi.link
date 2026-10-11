@@ -163,6 +163,7 @@ export const translations = {
     tashkent: "Ташкент, Узбекистан",
     allRightsReserved: "Все права защищены.",
     madeWithLove: "Сделано с ❤️ в Узбекистане.",
+    developedBy: "Разработка сайта — TIPA",
     terms: "Условия использования",
     privacy: "Политика конфиденциальности",
     footerDescription:
@@ -369,6 +370,7 @@ export const translations = {
     tashkent: "Toshkent, O'zbekiston",
     allRightsReserved: "Barcha huquqlar himoyalangan.",
     madeWithLove: "O'zbekistonda ❤️ bilan yaratildi.",
+    developedBy: "Sayt yaratish — TIPA",
     terms: "Foydalanish shartlari",
     privacy: "Maxfiylik siyosati",
     footerDescription:
@@ -573,6 +575,7 @@ export const translations = {
     tashkent: "Tashkent, Uzbekistan",
     allRightsReserved: "All rights reserved.",
     madeWithLove: "Made with ❤️ in Uzbekistan.",
+    developedBy: "Website by TIPA",
     terms: "Terms of use",
     privacy: "Privacy policy",
     footerDescription:
