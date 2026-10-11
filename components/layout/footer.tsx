@@ -227,6 +227,16 @@ export default function Footer() {
                 >
                   {t("madeWithLove")}
                 </motion.p>
+                <p className="text-gray-400 mt-1 text-xs sm:text-sm">
+                  <a
+                    href="https://tipa.uz/ru/services/web"
+                    target="_blank"
+                    rel="noopener"
+                    className="text-gray-400 hover:text-yaxshi-green transition-colors"
+                  >
+                    {t("developedBy")}
+                  </a>
+                </p>
               </motion.div>
               <motion.div className="flex space-x-4 sm:space-x-6 text-xs sm:text-sm" variants={itemVariants}>
                 <Link href="/terms" className="text-gray-400 hover:text-yaxshi-green transition-colors">
